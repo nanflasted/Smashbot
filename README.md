@@ -1,0 +1,2 @@
+# Smashbot
+A smashing bot!
